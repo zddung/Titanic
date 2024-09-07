@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 05d394ae2a81edd4cbc3c51917e766e3, type: 3}
+  m_Script: {fileID: 11500000, guid: 3db094e38e75f2947a18264645157cdf, type: 3}
   m_Name: OculusProjectConfig
   m_EditorClassIdentifier: 
   targetDeviceTypes: 010000000200000003000000
@@ -39,4 +39,4 @@ MonoBehaviour:
   _processorFavor: 0
   systemSplashScreen: {fileID: 0}
   systemSplashScreenType: 0
-  showUPMUpdatePrompt: 1
+  showUPMUpdatePrompt: 0
